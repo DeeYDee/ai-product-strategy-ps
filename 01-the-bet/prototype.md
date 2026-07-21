@@ -1,7 +1,7 @@
 # The Prototype Bet
 
 ## What I Built
-<!-- One sentence: what does this prototype demonstrate? --> Autonomous, Self healing Network Performance Monitoring.
+<!-- One sentence: what does this prototype demonstrate? --> Autonomous and self-healing Network Performance Monitoring.
 
 ## Tool Used
 <!-- v0 / Cursor / Lovable / other --> Lovable
