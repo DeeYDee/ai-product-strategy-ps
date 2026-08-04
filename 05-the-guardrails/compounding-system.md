@@ -25,7 +25,7 @@
 **LogicSee AI Governance Policy — Summary**
 
 **System:** Network Performance Monitoring Agent, deployed on critical digital infrastructure.
-EU AI Act status: High-risk — Annex III(2), confirmed (safety component in critical-infrastructure management).
+EU AI Act status: High-risk — Annex III(2), confirmed, (safety component in critical-infrastructure management).
 
 **Scope:** Read-only detection, correlation, remediation drafting. No execution credentials to network devices.
 
