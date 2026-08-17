@@ -14,7 +14,12 @@
 
 ### Correction Loop - 3/5
 **What you capture today:**
+Network alerts, anomalies, performance degradation, and incidents.
+The network state immediately before, during, and after an incident.
+Metrics such as latency, packet loss, jitter, throughput, errors, utilization, availability, retransmissions, CPU/memory, interface health, and application response time.
 **How it compounds:**
+Every incident becomes a labeled state > action > outcome training example, becoming the growing corpus of network conditions paired with remediation outcomes. Transitioning into this flow: Detect > Diagnose > Predict outcome > Remediate > Validate > Learn > Prevent recurrence.
+
 
 ### Preference Loop - 3/5
 **What you capture today:**
