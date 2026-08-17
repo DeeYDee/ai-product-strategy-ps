@@ -53,7 +53,7 @@ AI diagnosis > confidence + risk gate > autonomous / approval / human > execute 
 
 ## Red-Team Findings
 *What failure mode did your partner find that you missed?*
-Although not much was found due to specificity of the product, but Every missed failure must become a Golden dataset row > regression test > safety rule
+Although not much was found due to specificity of the product, "Correct diagnosis but incorrect remediation is a possible failure mode" but Every missed failure must become a Golden dataset row > regression test > safety rule
 
 This creates the reliability flywheel:
 Failure discovered > system improved > failure becomes harder to repeat.
