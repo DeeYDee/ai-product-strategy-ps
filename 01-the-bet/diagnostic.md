@@ -15,7 +15,7 @@
 
 **Score rationale:** End to End enterprice Network Performance Monitoring tool
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** Lady Owens
 
 ---
 
@@ -24,7 +24,7 @@
 
 **Score rationale:** Data resides on cloud and not on-prem, hence AI capabilities is limited to data that can be shared.
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** Lady Owens
 
 ---
 
@@ -33,12 +33,13 @@
 
 **Score rationale:** Setup and transition cost is high, Operation cost is also high copared to toher solutions with native AI capabilities
 
-**Named attacker (from partner challenge):**
+**Named attacker (from partner challenge):** Lady Owens
 
 ---
 
 ## Top Vulnerability
 <!-- One line: what's the single biggest strategic risk? -->
+LogicSee risks being commoditized as an AI-enhanced monitoring product before its remediation and outcome data flywheel becomes sufficiently strong.
 
 ## Confidence Level
-<!-- H / M / L — how confident are you in this bet after the diagnostic? -->
+<!-- H / M / L — how confident are you in this bet after the diagnostic? --> M
