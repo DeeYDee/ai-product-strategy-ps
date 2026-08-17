@@ -4,26 +4,33 @@
 
 ### Horizon 1 — Now (0-3 months)
 *Quick wins. Ship with existing capabilities.*
+Prove the autonomous recovery loop with existing capabilities.
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
-| | | H / M / L |
+| Automate detection > diagnosis > remediation > validation loop| ≥90% diagnosis accuracy; ≥95% successful validation| H |
+| Capture remediation outcomes for the data flywheel | ≥90% of autonomous actions produce structured outcome data| M |
 
 ### Horizon 2 — Next (3-9 months)
 *Bets. Requires new capabilities or integrations.*
+Scale autonomous recovery and build the compounding moat.
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
-| | | H / M / L |
+|Expand autonomous remediation across common failure modes | ≥50% qualifying incidents autonomously resolved| M |
+|Build remediation intelligence / failure-pattern graph |Increasing remediation success rate quarter-over-quarter |  M |
+
 
 ### Horizon 3 — Bet (9-18 months)
 *Moonshots. High uncertainty, high potential.*
+Move from reactive self-healing to predictive autonomous network operations.
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| | | H / M / L |
+| Predict failures before user impact| Measurable reduction in recurring incidents| H / M / L |
+| Autonomous cross-domain remediation |	≥70% qualifying incidents resolved without human intervention |	L |
+| Global remediation intelligence network | New deployments benefit from accumulated failure/remediation knowledge | L |
+
 
 ## Board Pitch
 
