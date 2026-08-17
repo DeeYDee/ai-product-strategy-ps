@@ -35,7 +35,7 @@ Since Pricing is Device based, it would look something like this:
 "Pricing Strategy
 - Strategy posture: Maximize
 - Pricing model: Seat-Device / Access
-- Unit of work metered: Switches, Access points, Routers
+- Unit of work metered: Switches, Access points, Routers, AI capabilities
 - Base fee ($/month): 0
 - Price per unit: $15
 - Estimated units/user/Devices/month: 3000
