@@ -14,9 +14,12 @@
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
 
-**Triage model:** Fast/low-cost model + deterministic rules
-**Frontier model:** Complex diagnosis and high-risk remediation only
-**Routing rule:** Use the cheapest validated and safe method capable of completing the task
+**Triage model:** Fast/low-cost model + deterministic rules.
+
+**Frontier model:** Complex diagnosis and high-risk remediation only.
+
+**Routing rule:** Use the cheapest validated and safe method capable of completing the task.
+
 **Expected cascade ratio:** 70–85% triage/deterministic, 10–25% advanced reasoning, <5% human intervention
 
 ## Pricing Model
