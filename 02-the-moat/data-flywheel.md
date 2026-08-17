@@ -24,11 +24,26 @@ Every incident becomes a labeled state > action > outcome training example, beco
 
 ### Preference Loop - 3/5
 **What you capture today:**
+Device, interface, application, service, site, and user context.
+Network topology and dependency graphs.
+Historical performance baselines.
+Normal operating ranges by device, site, application, time, and traffic pattern.
+Change history and configuration state.
+
 **How it compounds:**
+The platform becomes increasingly environment-aware rather than relying on generic thresholds.
 
 ### Domain Context Loop - 3/5
 **What you capture today:**
+Failure patterns across LAN, WAN, Wi-Fi, SD-WAN, cloud, data center, security, and application environments.
+Correlations between network and application performance.
+Common combinations of symptoms.
+Device/vendor/model/firmware-specific failure signatures.
+
 **How it compounds:**
+Yes, a failure discovered in one part of the network can become intelligence for another. Thesystem gradually builds a failure-pattern graph:
+Symptom/Failure > Correlation > Root Cause > Remediation > Expected Outcome
+This allows the platform to recognize failure modes earlier and diagnose them with fewer observations.
 
 ### Network Loop - 2/5
 **What you capture today:**
