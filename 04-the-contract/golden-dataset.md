@@ -18,9 +18,9 @@
 
 **Approach:** show uncertainty / tiered confidence / human-in-loop trigger
 
-**High confidence (>90%):** Autonomous action if low-risk and pre-approved
-**Medium confidence (70-90%):** Validate further / approval required
-**Low confidence (<70%):** No autonomous change; HITL
+**High confidence (>90%):** Autonomous action if low-risk and pre-approved.
+**Medium confidence (70-90%):** Validate further / approval required.
+**Low confidence (<70%):** No autonomous change; HITL.
 
 **User control surface:**
 Approve/Reject, Autonomy level, Confidence thresholds and Configure blast radius, Allowed/Prohibited actions, Rollback Changes, Set device and Site Criticality.
