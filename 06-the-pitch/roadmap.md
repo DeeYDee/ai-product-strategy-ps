@@ -76,6 +76,9 @@ Demonstrate a measurable, safe and economically viable autonomous recovery loop 
 ## M1 Baseline vs. Now
 *Your 3-sentence AI strategy from Module 1 vs. what you'd say now:*
 
-**M1 baseline:**
+**M1 baseline:** Use AI to drive autonomous and self healing NOC, Reducing the MTTR and repititve NOC tasks.
 
 **Now:**
+Prove the autonomous recovery loop with existing capabilities.
+Scale autonomous recovery and build the compounding moat.
+Move from reactive self-healing to predictive autonomous network operations.
