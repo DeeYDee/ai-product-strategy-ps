@@ -23,10 +23,12 @@
 **Expected cascade ratio:** 70–85% triage/deterministic, 10–25% advanced reasoning, <5% human intervention
 
 ## Pricing Model
+Model: Hybrid
 
+Base platform + included usage + usage bands + premium autonomy tier
 **Current pricing:**
 **Proposed AI pricing:**
-**Model:** seat-based / usage-based / outcome-based / hybrid
+**Model:** seat-based / usage-based / outcome-based / **hybrid**
 
 ## Stress Tests
 
