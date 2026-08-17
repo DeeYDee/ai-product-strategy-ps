@@ -3,7 +3,7 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**Product:** Logic Monitor
+**Product:** LogicSee AI Monitor
 **Your Role:** 
 
 ---
