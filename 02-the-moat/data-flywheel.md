@@ -60,9 +60,11 @@ eventually evolving to a better product per time. but this seems like a long way
 
 **Total Flywheel Score: 11/20**
 **Weakest Loop:** Network Loop
+The gap: Convert customer-specific incidents and remediation history into privacy-safe, reusable global intelligence...hence telemetry.
 
 **Fix for weakest loop:**
-Gathering more data point would be a way to fix, but ultimately.. this is more dependent on telemetry over time.
+Build a centralized remediation intelligence layer that normalizes incidents across customers and infrastructure environments into reusable patterns:
+but most importantly.. this is more dependent on telemetry over time.
 
 ---
 
@@ -71,20 +73,22 @@ Gathering more data point would be a way to fix, but ultimately.. this is more d
 ### 1. Platform Encroachment
 **Attacker:** Cisco
 **Vector:** Acquiscitions and Product Expansion
+Cisco is building a solution that is structurally close to the autonomous self-healing value proposition. with a couple of acquisitions already completed.
 **Time-to-threat:** 24 Months/ 36months
 **% of value at risk:** 33% / 50%
 
 ### 2. Vertical Competitor
 **Attacker:**Solarwinds
-**Vector:** Expanding to cloud native monitoring
+**Vector:** Expanding to cloud native monitoring, broader observability across network, application, infrastructure and cloud environments. 
 **Time-to-threat:** 12-24 months
 **% of value at risk:** 30%
 
 ### 3. Adjacent Expansion
-**Attacker:**
+**Attacker:** Dynatrace
 **Vector:**
-**Time-to-threat:**
-**% of value at risk:**
+Cloud observability moving into network observability including AI SRE and autonomous operations.
+**Time-to-threat:** 12 months
+**% of value at risk:** 20%
 
 ---
 
