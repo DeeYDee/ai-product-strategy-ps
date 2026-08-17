@@ -10,10 +10,10 @@
 <!-- Paste the shareable URL --> https://logicsee-selfheal-proto.lovable.app
 
 ## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator --> Copilot
+<!-- Automator / Copilot / Oracle / Creator / Orchestrator --> Copilot for Critical infrastructure | Automator for for repeated non-critical infrastructure and scope.
 
 ## The Bet in One Sentence
-<!-- What you're building, for whom, why now --> Autonomous and Self healing End to End Enterprise Network Performance Monitoring tool, for network Engineers and Control centres to optimize network operational effiiciency
+<!-- What you're building, for whom, why now --> Autonomous and Self healing End to End Enterprise Network Performance Monitoring tool, for network Engineers and Control centres to optimize network operational effiiciency. And in a real use case, an option to my companies' current solution/product.
 
 ## Kill Criteria
-<!-- When would you stop? What evidence would kill this bet? --> If there are other Cheaper and Faster products to market
+<!-- When would you stop? What evidence would kill this bet? --> If there are other Cheaper and Faster products to market (for example faster integrations and local data ownership)
