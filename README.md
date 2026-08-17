@@ -24,8 +24,8 @@
 - **Product:** LogicSee AI Monitor
 - **AI Value Archetype:** Copilot for Critical infrastructure | Automator for for repeated non-critical infrastructure and scope.
 - **Vulnerability Scores:** _(add: Moat _/5 · Data _/5 · Platform _/5)_
-- **Top Risk:**
-- **Confidence:** _(add: H / M / L)_
+- **Top Risk:** LogicSee risks being commoditized as an AI-enhanced monitoring product before its remediation and outcome data flywheel becomes sufficiently strong.
+- **Confidence:** M
 - **Prototype:** https://logicsee-selfheal-proto.lovable.app
 - **Kill Criteria:** If there are other Cheaper and Faster products to market (for example faster integrations and local data ownership)
 
