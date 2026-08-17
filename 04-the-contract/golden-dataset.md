@@ -13,13 +13,16 @@
 
 **Adversarial rows included:** __
 **Coverage gaps identified by partner:**
+New failures, conflicting telemetry, unsafe actions, failed remediation, regression.
 
 ## Confidence UX Design
 
 **Approach:** show uncertainty / tiered confidence / human-in-loop trigger
 
 **High confidence (>90%):** Autonomous action if low-risk and pre-approved.
+
 **Medium confidence (70-90%):** Validate further / approval required.
+
 **Low confidence (<70%):** No autonomous change; HITL.
 
 **User control surface:**
