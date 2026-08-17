@@ -45,7 +45,15 @@ North-star metric:
 Autonomous Recovery Rate — % of incidents successfully detected, diagnosed, remediated and validated without human intervention.
 
 ## HITL Architecture
-<!-- When does a human step in? What's the escalation path? -->
+<!-- When does a human step in? 
+Human intervention should be triggered by risk, not simply low model confidence.
+
+What's the escalation path? -->
+AI diagnosis > confidence + risk gate > autonomous / approval / human > execute > validate > rollback > learn
 
 ## Red-Team Findings
 *What failure mode did your partner find that you missed?*
+Although not much was found due to specificity of the product, but Every missed failure must become a Golden dataset row > regression test > safety rule
+
+This creates the reliability flywheel:
+Failure discovered > system improved > failure becomes harder to repeat.
