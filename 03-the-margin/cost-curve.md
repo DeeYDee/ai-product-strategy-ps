@@ -27,7 +27,19 @@
 **Current pricing:**
 **Proposed AI pricing:**
 **Model:** seat-based / usage-based / outcome-based / **hybrid**
-Base platform + included usage + usage bands + premium autonomy tier
+
+Base platform + included usage + usage bands + premium autonomy tier.
+Since Pricing is Device based, it would look something like this:
+
+**For Example:**
+"Pricing Strategy
+- Strategy posture: Maximize
+- Pricing model: Seat-Device / Access
+- Unit of work metered: Switches, Access points, Routers
+- Base fee ($/month): 0
+- Price per unit: $15
+- Estimated units/user/Devices/month: 3000
+- Implied revenue/user/month: $45000.00"
 
 ## Stress Tests
 
