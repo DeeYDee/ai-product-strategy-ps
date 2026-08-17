@@ -10,7 +10,8 @@
 | **Eval** | evaluations are urrently manually tested| H | implement an auntomation test build, covering diagnosis accuracy, remediation recommendation, hallucination/unsafe-action rate, latency, cost, and regression detection.
 
 ## Portability Score
-<!-- Ready / Partial / Locked --> Locked (not ready)
+<!-- Ready / Partial / Locked --> Partial (Alternative exists conceptually but has not been validated.)
+We can replace the primary AI provider without rewriting the product, but might be losing our accumulated learning, weakening safety controls, or interrupting autonomous network operations.
 
 ## If [primary vendor] doubles pricing tomorrow:
 <!-- What's your 48-hour response? --> Pause service, Implement Audit, explore vendor lock-in neutral option, transition initiated.
