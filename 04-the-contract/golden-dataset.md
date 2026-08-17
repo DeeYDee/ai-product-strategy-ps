@@ -12,8 +12,8 @@
 
 
 **Adversarial rows included:** 5
-**Coverage gaps identified by partner:**
 
+**Coverage gaps identified by partner:**
 New failures, conflicting telemetry, unsafe actions, failed remediation, regression.
 
 ## Confidence UX Design
