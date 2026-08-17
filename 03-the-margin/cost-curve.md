@@ -2,14 +2,14 @@
 
 ## Cost Model
 
-| Cost Category | Per-User/Month | Notes |
+| Cost Category | Per-Device/Month | Notes |
 |--------------|----------------|-------|
-| Inference (primary model) | | |
-| Inference (cascading/triage) | | |
-| Infrastructure | | |
-| Data/storage | | |
-| Human-in-the-loop | | |
-| **Total AI COGS** | | |
+| Inference (primary model) | TBD|Frontier-model usage for complex diagnosis, root-cause analysis, and high-risk remediation decisions. |
+| Inference (cascading/triage) | TBD | Lower-cost model usage for event classification, anomaly triage, deduplication, known failure patterns, and routine analysis.|
+| Infrastructure |TBD | Compute and platform infrastructure required to ingest, process, correlate, and serve network monitoring and self-healing workloads|
+| Data/storage |TBD |Storage for telemetry, network context, incidents, topology, remediation history, and outcome data used by the learning flywheel. |
+| Human-in-the-loop |TBD| Operational review for low-confidence, high-risk, or failed autonomous remediation; should decline as automation improves.|
+| **Total AI COGS** |TBD| Sum of inference + infrastructure + data/storage + human-in-the-loop costs per device/month |
 
 ## Cascading Strategy
 <!-- Cheap model → frontier model routing logic -->
