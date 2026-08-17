@@ -27,7 +27,7 @@ Move from reactive self-healing to predictive autonomous network operations.
 
 | Initiative | Metric | Confidence |
 |-----------|--------|-----------|
-| Predict failures before user impact| Measurable reduction in recurring incidents| H / M / L |
+| Predict failures before user impact| Measurable reduction in recurring incidents|  M  |
 | Autonomous cross-domain remediation |	≥70% qualifying incidents resolved without human intervention |	L |
 | Global remediation intelligence network | New deployments benefit from accumulated failure/remediation knowledge | L |
 
