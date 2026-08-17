@@ -96,9 +96,36 @@ Cloud observability moving into network observability including AI SRE and auton
 
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
-**Attacker:**
-**Attack vector (target the weakest loop):**
+**Attacker:** Cisco
+**Attack vector (target the weakest loop):** Network Loop
 **Weeks 1-4 - what they ship:**
+They launch an AI Network Operations Agent that:
+
+Ingests network, infrastructure, application and cloud telemetry.
+Detects anomalies automatically.
+Identifies probable root causes.
+Recommends remediation.
+
 **Weeks 5-8 - how they poach users:**
+They target our installed base and prospects with:
+
+Free autonomous monitoring trials.
+Migration incentives.
+Bundled pricing.
+Existing-account sales relationships.
+
 **Weeks 9-12 - why users don't come back:**
+The attacker wins if customers conclude that:
+
+Their existing platform provides sufficient monitoring.
+Basic AI diagnosis is now commoditized.
+Automated remediation is “good enough.”
+Buying a separate platform creates unnecessary cost and complexity.
+
 **Your defense:**
+With the objective to move the product from “network performance monitoring with AI” to “the autonomous self-healing layer that gets better every time it fixes a network."
+We **Capture** every: Network State, Failure, Diagnosis, Action and Outcome.
+We **Ship** the capabilities that are hardest to dismiss as “just AI monitoring”.
+We **Turn** customer outcomes into the competitive moat by demonstrating end to end flow:
+More incidents > more remediation outcomes > better diagnosis > higher remediation success > greater autonomy > fewer incidents.
+
