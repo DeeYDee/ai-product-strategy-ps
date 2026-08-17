@@ -4,12 +4,14 @@
 
 | Loop | Input | Output | Compounds? | Status |
 |------|-------|--------|-----------|--------|
-| | | | Y/N | active / broken / missing |
-| | | | Y/N | active / broken / missing |
-| | | | Y/N | active / broken / missing |
+| Remediation	| Incident + diagnosis + remediation + outcome| Better remediation decisions  | Y/N | active  |
+| Reliability	| Failures + red-team findings + HITL corrections|Better evals, guardrails and safety | Y/N | active |
+| Network Intelligence |Telemetry + topology + incidents + outcomes| Better detection and root-cause intelligence| Y/N | active |
+
 
 **Broken loop identified by partner:**
 **Fix plan:**
+Feed successful and failed outcomes into regression tests, remediation intelligence and future evaluation.
 
 ## Context Connectivity
 <!-- How does knowledge flow across teams and domains? Where does it silo? -->
@@ -38,7 +40,19 @@ EU AI Act status: High-risk — Annex III(2), confirmed, (safety component in cr
 
 
 ## Agent Topology
-<!-- If using agents: what can each agent do? What can't it do? Who approves what? -->
+Topology is:
+Detect > Diagnose > Risk/Confidence > Policy Gate > Approve/Autonomous > Execute > Validate > Learn.
+
+
+<!-- If using agents: what can each agent do? 
+Agents can Detect - Monitor telemetry, detect anomalies, correlate events, 
+Can diagonise, - Identify probable root cause, gather evidence, assign confidence.
+Can remediate, - Recommend remediation and expected outcome. 
+Can execute - Execute approved low-risk, reversible actions.
+
+What can't it do? Who approves what? --> 
+Agents cant - Change network state, Bypass policy/safety controls and Cant directly modify production network nor override human approval rules.
+
 
 ## Shadow AI Audit
 
