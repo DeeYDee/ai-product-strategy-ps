@@ -23,20 +23,19 @@
 **Expected cascade ratio:** 70–85% triage/deterministic, 10–25% advanced reasoning, <5% human intervention
 
 ## Pricing Model
-Model: Hybrid
 
-Base platform + included usage + usage bands + premium autonomy tier
 **Current pricing:**
 **Proposed AI pricing:**
 **Model:** seat-based / usage-based / outcome-based / **hybrid**
+Base platform + included usage + usage bands + premium autonomy tier
 
 ## Stress Tests
 
 | Scenario | Impact on Margin | Response |
 |----------|-----------------|----------|
-| Inference costs 3x | | |
-| Heaviest segment doubles | | |
-| Model provider raises prices 50% | | |
+| Inference costs 3x | Potential significant Cost expansion on high-AI workloads| Increase cascading, shift to validated lower-cost models, cache/reuse reasoning|
+| Heaviest segment doubles |Margin compression if pricing is uncapped | Usage bands and enterprise overage economics; optimize telemetry compression|
+| Model provider raises prices 50% |Moderate/high depending on provider concentration | Activate alternative provider routing and renegotiate volume pricing|
 
 ## Board One-Pager
 <!-- Before/After: Old SaaS revenue vs. AI usage revenue for your product -->
