@@ -4,11 +4,12 @@
 
 | # | Input | Expected Output | Edge Case? | Judge Type |
 |---|-------|----------------|-----------|-----------|
-| 1 | | | Y/N | rule / LLM |
-| 2 | | | Y/N | rule / LLM |
-| 3 | | | Y/N | rule / LLM |
-| 4 | | | Y/N | rule / LLM |
-| 5 | | | Y/N | rule / LLM |
+| 1 | Normal behavior| No false alert | N | rule |
+| 2 | Known anomaly| Correct diagnosis| N | rule / LLM |
+| 3 | Known failure|Correct remediation | N | rule / LLM |
+| 4 | Correct remediation|Refuse / HITL | Y | rule  |
+| 5 | 	Failed remediation| Detect + rollback/escalate| Y | rule |
+
 
 **Adversarial rows included:** __
 **Coverage gaps identified by partner:**
