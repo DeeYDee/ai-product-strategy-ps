@@ -47,11 +47,22 @@ This allows the platform to recognize failure modes earlier and diagnose them wi
 
 ### Network Loop - 2/5
 **What you capture today:**
-**How it compounds:**
+Anonymized/normalized network telemetry patterns.
+Incident and failure signatures.
+Device and infrastructure characteristics.
+Successful and unsuccessful remediation patterns.
+Recovery times and remediation effectiveness.
+Vendor/model/firmware-specific behaviors.
 
-**Total Flywheel Score: 15/20**
+**How it compounds:**
+Every new monitored environment contributes additional to the root cause, the fix, what worked and what didnt.
+eventually evolving to a better product per time. but this seems like a long way to go...
+
+**Total Flywheel Score: 11/20**
 **Weakest Loop:** Network Loop
+
 **Fix for weakest loop:**
+Gathering more data point would be a way to fix, but ultimately.. this is more dependent on telemetry over time.
 
 ---
 
